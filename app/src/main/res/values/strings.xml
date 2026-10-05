@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">laba2</string>
+    <string name="hint_editText">Введите имя</string>
+    <string name="fio_text">Таран Елена </string>
+    <string name="greeting_prefix">Привет, </string>
+    <string name="send_button">SEND</string>
+    <string name="greeting_format">Привет, %1$s!</string>
+</resources>
